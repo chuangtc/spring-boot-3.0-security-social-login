@@ -1,5 +1,11 @@
 # spring-boot-3.0-security-social-login
 
+## Issue
+
+javax.servlet.http.HttpServletRequest ClassNotFoundException
+
+It seems this package(spring-social-facebook/2.0.3.RELEASE) is no longer actively maintained and being archived,
+
 ## Purpose
 
 Adding a new Facebook login to an existing form-login app.
